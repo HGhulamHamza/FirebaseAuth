@@ -1,0 +1,51 @@
+.private-container {
+  width: 850px;
+  background-color: #7d5aaaab;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.header {
+  background-color: #7d5aaa; /* Purple color */
+  padding: 20px;
+  text-align: center;
+}
+
+.prhead {
+  font-size: 45px;
+  color: white;
+  margin: 0;
+}
+
+.content {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.prsubhead {
+  font-size: 30px;
+  margin-top: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+.prvp {
+  font-size: 18px;
+  margin-top: 20px;
+  color: black;
+}
+
+.btn {
+  background-color: crimson !important; /* Set the background color to red */
+  font-size: 13px;
+  font-weight: 900;
+  border: none;
+  padding: 10px 19px;
+  cursor: pointer;
+  margin-top: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  color: white !important;
+}
